@@ -44,7 +44,7 @@ h2 {
 .principal {
   border-radius: 13px;
   transition: all 150ms ease-in-out;
-  width: 600px;
+  max-width: 600px;
 }
 .principal:hover {
   filter: contrast(80%);
